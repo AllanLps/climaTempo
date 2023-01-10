@@ -1,0 +1,20 @@
+.rodape{
+    text-align: center;
+    margin: 7rem;
+}
+
+.rodape-texto{
+    color: var(--branco);
+    font-size: 20px;
+}
+
+@media screen and (max-width: 768px) {
+    .rodape{
+        margin: 2rem;
+        padding: 1rem;
+    }
+
+    .rodape-texto {
+        font-size: 16px;
+    }
+}

@@ -1,0 +1,8 @@
+.cabecalho{
+    margin: 3rem;
+}
+
+.cabecalho-logo{
+    color: var(--branco);
+    font-size: 32px;
+}

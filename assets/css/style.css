@@ -1,0 +1,21 @@
+@import url('cabecalho/cabecalho.css');
+@import url('main/main.css');
+@import url('rodape/rodape.css');
+
+:root {
+    --fonte: 'Josefin Sans', sans-serif;
+    --branco:#FFF;
+    --azul: #5271FF;
+    --amarelo: #FFC900;
+    --cinza:#949596;
+    --azul-claro:#428CB2;
+    --amarelo-pastel:#DEB42A;
+
+    
+}
+
+body {
+    background-color: var(--azul);
+    font-family: var(--fonte);
+}
+
