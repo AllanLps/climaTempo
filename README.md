@@ -6,6 +6,9 @@ Esse projeto eu utilizei como uma forma de treinar a lógica de condicionais if.
 > Ter no mínimo 4 climas diferentes.
 > Ser responsivo.
 > O design mudar de acordo com a condição climática. 
+- [ ]  Ser feito com HTML, CSS e JS
+- [ ]  Ter no mínimo 4 climas diferentes
+- [ ]  Ser responsivo
 
 Criei desde o design até o código, fiz o deploy aqui mesmo no github pages e espero que gostem. 
 
